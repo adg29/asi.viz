@@ -5,17 +5,44 @@ body {
     padding: 0;
     text-align: center;
 }
-#asi_ig_slider{
-	width: 640px;
+
+#asi_app{
+	width: 960px;
 	margin: 0 auto;
 }
 
-#asi_ig_bar_grafico,
-#asi_ig_bar{
+#asi_dl_label{
+}
+
+#asi_dl_slider{
+	width: 420px;
+	margin: 0 auto;
+}
+
+#asi_bar_grafico,
+#asi_bar{
     margin: 0 auto;
 }
+
 p {
     text-align: left;
     margin: .5em 2em;
+}
+
+#asi_returns_meta{
+	float: left;
+	width: 315px;
+}
+
+#asi_returns_bar{
+	float: right;
+	width: 640px;
+}
+
+#asi_returns{
+	float: right;
+}
+#asi_dl{
+	float: left;
 }
 
